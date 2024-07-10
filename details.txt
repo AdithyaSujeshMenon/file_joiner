@@ -1,0 +1,11 @@
+File-(Merger/joiner) 
+Can merge variety of files together. 
+Made with python. 
+
+Won't work if if you don't install the necessary pip modules used in the program. 
+REM Install Python packages for file merger script
+
+
+1)python -m pip install --upgrade pip setuptools
+2)pip install numpy pandas PyPDF2 python-docx docxcompose openpyxl markdown2 python-pptx odfpy tqdm
+
